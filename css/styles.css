@@ -8,10 +8,11 @@
   float: right;
 }
 .profile_pic {
-  margin-top: 40pt;
-  width: 30%;
+  margin-top: 0pt;
+  margin-left: 0pt;
+  width: 100%;
   float: left;
 }
 .col-6 {
-  padding-right: 0pt;
+  padding: 0pt;
 }
