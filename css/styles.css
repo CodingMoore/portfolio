@@ -45,3 +45,8 @@
   float: left;
   font-size: 14pt;
 }
+.coding_projects_box {
+  width: 50%;
+  float: left;
+  box-sizing: border-box;
+}
