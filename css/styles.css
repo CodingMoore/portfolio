@@ -2,10 +2,14 @@
   color: rgb(206, 206, 206);
   background-color: rgb(104, 104, 104);
   padding-top: 20pt;
-  padding-bottom: 20pt;
+  padding-bottom: 0pt;
 }
 .contact_info {
   float: right;
+}
+#contact_info_group {
+  padding-top: 40pt;
+  padding-bottom: 0pt;
 }
 .profile_pic {
   margin-top: 0pt;
@@ -23,4 +27,7 @@
   margin-left: 15pt;
   font-size: 14pt;
   text-indent: 20pt;
+}
+#coding_projects_header {
+  margin-left: 15pt;
 }
