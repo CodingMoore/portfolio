@@ -1,0 +1,9 @@
+.jumbotron {
+  color: rgb(206, 206, 206);
+  background-color: rgb(104, 104, 104);
+  padding-top: 20pt;
+  padding-bottom: 20pt;
+}
+.contact_info {
+  float: right;
+}
