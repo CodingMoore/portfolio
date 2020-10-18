@@ -54,3 +54,9 @@
 .link_description:hover {
   color: green
 }
+.link_color:hover {
+  color: red;
+}
+.link_color:active {
+  color: purple
+}
