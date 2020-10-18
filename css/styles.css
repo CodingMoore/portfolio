@@ -52,11 +52,8 @@
   box-sizing: border-box;
 }
 .link_description:hover {
-  color: green
+  font-weight: bold;
 }
 .link_color:hover {
   color: red;
-}
-.link_color:active {
-  color: purple
 }
