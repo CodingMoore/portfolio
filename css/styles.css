@@ -51,4 +51,6 @@
   float: left;
   box-sizing: border-box;
 }
-.coding_projects_box:hover {
+.link_description:hover {
+  color: green
+}
